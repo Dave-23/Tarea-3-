@@ -1,0 +1,6 @@
+c:\users\programacion\documents\visual studio 2013\Projects\Censo de Estudiantes\Censo de Estudiantes\bin\Debug\Censo de Estudiantes.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\Censo de Estudiantes\Censo de Estudiantes\bin\Debug\Censo de Estudiantes.exe
+c:\users\programacion\documents\visual studio 2013\Projects\Censo de Estudiantes\Censo de Estudiantes\bin\Debug\Censo de Estudiantes.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\Censo de Estudiantes\Censo de Estudiantes\obj\Debug\Censo de Estudiantes.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\Censo de Estudiantes\Censo de Estudiantes\obj\Debug\Censo de Estudiantes.exe
+c:\users\programacion\documents\visual studio 2013\Projects\Censo de Estudiantes\Censo de Estudiantes\obj\Debug\Censo de Estudiantes.pdb
